@@ -1,0 +1,207 @@
+2025-04-22 17:56:50,715 - INFO - Initializing Egyptian News RAG system...
+2025-04-22 17:56:50,715 - INFO - Loading Egyptian news data...
+2025-04-22 17:56:50,716 - INFO - Loading combined news data from egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 17:56:50,719 - INFO - Loaded 138 articles from combined file
+2025-04-22 17:56:50,719 - INFO - Creating document objects from articles...
+2025-04-22 17:56:50,720 - INFO - Created 138 document objects
+2025-04-22 17:56:50,720 - INFO - Splitting documents into chunks...
+2025-04-22 17:56:50,726 - INFO - Split 138 documents into 310 chunks
+2025-04-22 17:56:50,727 - INFO - Creating new vector store...
+2025-04-22 17:56:51,383 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-22 17:58:04,162 - INFO - Created and persisted vector store with 310 chunks
+2025-04-22 17:58:04,163 - INFO - Set up retriever with contextual compression
+2025-04-22 17:58:04,163 - INFO - Set up QA chain with custom prompt
+2025-04-22 17:58:04,165 - INFO - Egyptian News RAG system initialized successfully
+2025-04-22 17:58:04,846 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-22 17:58:04,871 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-22 17:58:06,645 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-22 17:58:08,686 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-22 17:58:09,256 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-04-22 18:00:00,277 - INFO - Initializing Egyptian News RAG system...
+2025-04-22 18:00:00,277 - INFO - Loading Egyptian news data...
+2025-04-22 18:00:00,278 - INFO - Loading combined news data from egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 18:00:00,282 - INFO - Loaded 138 articles from combined file
+2025-04-22 18:00:00,282 - INFO - Creating document objects from articles...
+2025-04-22 18:00:00,283 - INFO - Created 138 document objects
+2025-04-22 18:00:00,283 - INFO - Splitting documents into chunks...
+2025-04-22 18:00:00,290 - INFO - Split 138 documents into 310 chunks
+2025-04-22 18:00:00,290 - INFO - Loading existing vector store from egyptian_news_vectorstore
+2025-04-22 18:00:00,826 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-22 18:00:01,146 - INFO - Loaded vector store with 310 documents
+2025-04-22 18:00:01,147 - INFO - Set up retriever with contextual compression
+2025-04-22 18:00:01,147 - INFO - Set up QA chain with custom prompt
+2025-04-22 18:00:01,147 - INFO - Egyptian News RAG system initialized successfully
+2025-04-22 18:00:16,432 - INFO - Enhancing user query...
+2025-04-22 18:00:19,282 - INFO - Original query: '«Œ»«— «·»—·„«‰'
+2025-04-22 18:00:19,282 - INFO - Enhanced query: '√Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„  (Egyptian Parliament news today)
+
+or, for even more specificity depending on the desired information:
+
+* **Option 1 (Focusing on specific legislation):**  √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„ ÕÊ· „‘—Ê⁄ ﬁ«‰Ê‰ [«”„ „‘—Ê⁄ «·ﬁ«‰Ê‰] (Egyptian Parliament news today regarding the draft law [Name of the draft law])  -  Replace "[«”„ „‘—Ê⁄ «·ﬁ«‰Ê‰]" with the actual name of the law.
+
+* **Option 2 (Focusing on a specific politician):** √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„  ÕÊ· [«”„ «·”Ì«”Ì] (Egyptian Parliament news today regarding [Politician's name]) - Replace "[«”„ «·”Ì«”Ì]" with the politician's name.
+
+* **Option 3 (Focusing on a specific event):** √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„ »‘√‰ [ÕœÀ „⁄Ì‰] (Egyptian Parliament news today concerning [Specific event]) - Replace "[ÕœÀ „⁄Ì‰]" with the specific event.
+
+
+These enhanced queries use more precise keywords and specify the timeframe («·ÌÊ„ - today), making the search much more targeted.  They also provide options to further refine the search based on the user's specific needs.'
+2025-04-22 18:00:19,282 - INFO - Processing query: √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„  (Egyptian Parliament news today)
+
+or, for even more specificity depending on the desired information:
+
+* **Option 1 (Focusing on specific legislation):**  √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„ ÕÊ· „‘—Ê⁄ ﬁ«‰Ê‰ [«”„ „‘—Ê⁄ «·ﬁ«‰Ê‰] (Egyptian Parliament news today regarding the draft law [Name of the draft law])  -  Replace "[«”„ „‘—Ê⁄ «·ﬁ«‰Ê‰]" with the actual name of the law.
+
+* **Option 2 (Focusing on a specific politician):** √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„  ÕÊ· [«”„ «·”Ì«”Ì] (Egyptian Parliament news today regarding [Politician's name]) - Replace "[«”„ «·”Ì«”Ì]" with the politician's name.
+
+* **Option 3 (Focusing on a specific event):** √Œ»«— «·»—·„«‰ «·„’—Ì «·ÌÊ„ »‘√‰ [ÕœÀ „⁄Ì‰] (Egyptian Parliament news today concerning [Specific event]) - Replace "[ÕœÀ „⁄Ì‰]" with the specific event.
+
+
+These enhanced queries use more precise keywords and specify the timeframe («·ÌÊ„ - today), making the search much more targeted.  They also provide options to further refine the search based on the user's specific needs.
+2025-04-22 18:00:26,292 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+].
+2025-04-22 18:00:28,584 - ERROR - Error answering question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 31
+}
+]
+2025-04-22 18:07:17,454 - INFO - Loading Egyptian news data...
+2025-04-22 18:07:17,455 - INFO - Loading combined news data from egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 18:07:17,459 - INFO - Loaded 138 articles from combined file
+2025-04-22 18:07:17,460 - INFO - Creating document objects from articles...
+2025-04-22 18:07:17,461 - INFO - Created 138 document objects
+2025-04-22 18:07:17,461 - INFO - Splitting documents into chunks...
+2025-04-22 18:07:17,468 - INFO - Split 138 documents into 310 chunks
+2025-04-22 18:07:17,469 - INFO - Loading existing vector store from egyptian_news_vectorstore
+2025-04-22 18:07:18,060 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-22 18:07:18,291 - INFO - Loaded vector store with 310 documents
+2025-04-22 18:07:18,291 - INFO - Set up retriever with contextual compression
+2025-04-22 18:07:18,292 - INFO - Set up QA chain with custom prompt
+2025-04-22 18:07:23,273 - INFO - Enhancing user query...
+2025-04-22 18:07:25,521 - INFO - Original query: '„« ÂÌ √ÕœÀ «· ÿÊ—«  ›Ì «·⁄·«ﬁ«  «·„’—Ì… «·”⁄ÊœÌ…ø'
+2025-04-22 18:07:25,521 - INFO - Enhanced query: '„« ÂÌ √ÕœÀ «· ÿÊ—«  ›Ì «·⁄·«ﬁ«  «·„’—Ì… «·”⁄ÊœÌ… Œ·«· «·√‘Â— «·À·«À… «·„«÷Ì…° „⁄ «· —ﬂÌ“ ⁄·Ï «·»Ì«‰«  «·’«œ—… ⁄‰ „’«œ— —”„Ì… ﬂÊ“«—… «·Œ«—ÃÌ… «·„’—Ì… √Ê «·”⁄ÊœÌ… √Ê Ê”«∆· «·≈⁄·«„ «·ÕﬂÊ„Ì… ›Ì «·»·œÌ‰ø  Ê ‘„·  «· ÿÊ—«   «·“Ì«—«  «·—”„Ì…° Ê«·« ›«ﬁÌ«  «·«ﬁ ’«œÌ… √Ê «·”Ì«”Ì… «·„Êﬁ⁄…° Ê«· ’—ÌÕ«  «·⁄«„… ·„”ƒÊ·Ì‰ ÕﬂÊ„ÌÌ‰ —›Ì⁄Ì «·„” ÊÏ.'
+2025-04-22 18:07:31,515 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+].
+2025-04-22 18:07:33,798 - ERROR - Error answering question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+]
+2025-04-22 18:13:13,944 - INFO - Loading Egyptian news data...
+2025-04-22 18:13:13,944 - INFO - Loading combined news data from egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 18:13:13,948 - INFO - Loaded 138 articles from combined file
+2025-04-22 18:13:13,950 - INFO - Creating document objects from articles...
+2025-04-22 18:13:13,951 - INFO - Created 138 document objects
+2025-04-22 18:13:13,951 - INFO - Splitting documents into chunks...
+2025-04-22 18:13:13,957 - INFO - Split 138 documents into 310 chunks
+2025-04-22 18:13:13,960 - INFO - Loading existing vector store from egyptian_news_vectorstore
+2025-04-22 18:13:13,967 - INFO - Loaded vector store with 310 documents
+2025-04-22 18:13:13,968 - INFO - Set up retriever with contextual compression
+2025-04-22 18:13:13,968 - INFO - Set up QA chain with custom prompt
+2025-04-22 18:13:17,707 - INFO - Enhancing user query...
+2025-04-22 18:13:19,631 - INFO - Original query: '„‰ ÂÊ Ê“Ì— «·Œ«—ÃÌ… «·„’—Ì «·Õ«·Ìø'
+2025-04-22 18:13:19,631 - INFO - Enhanced query: 'Ê“Ì— «·Œ«—ÃÌ… «·„’—Ì «·Õ«·Ì «”„Â° Ê”Ì— Â «·–« Ì…° Ê¬Œ— √Œ»«—Â Ê  ’—ÌÕ« Â «·—”„Ì… ›Ì Ê”«∆· «·≈⁄·«„ «·„’—Ì… Ê«·⁄«·„Ì… Œ·«· «·√‘Â— «·À·«À… «·„«÷Ì….'
+2025-04-22 18:13:26,176 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+].
+2025-04-22 18:13:52,866 - INFO - Enhancing user query...
+2025-04-22 18:13:52,866 - INFO - Rate limit reached. Waiting 21.74 seconds...
+2025-04-22 18:13:52,866 - ERROR - Error enhancing query: Expanders may not be nested inside other expanders.. Using original query.
+2025-04-22 18:13:52,968 - INFO - Rate limit reached. Waiting 21.55 seconds...
+2025-04-22 18:13:53,019 - ERROR - Error answering question: Expanders may not be nested inside other expanders.
+2025-04-22 18:14:03,564 - INFO - Enhancing user query...
+2025-04-22 18:14:03,564 - INFO - Using cached enhanced query for: '„‰ ÂÊ Ê“Ì— «·Œ«—ÃÌ… «·„’—Ì «·Õ«·Ìø'
+2025-04-22 18:14:03,666 - INFO - Rate limit reached. Waiting 10.81 seconds...
+2025-04-22 18:14:03,718 - ERROR - Error answering question: Expanders may not be nested inside other expanders.
+2025-04-22 18:14:39,438 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+].
+2025-04-22 18:21:19,969 - INFO - Loading Egyptian news data...
+2025-04-22 18:21:19,971 - INFO - Loading combined news data from egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 18:21:19,974 - INFO - Loaded 138 articles from combined file
+2025-04-22 18:21:19,975 - INFO - Creating document objects from articles...
+2025-04-22 18:21:19,976 - INFO - Created 138 document objects
+2025-04-22 18:21:19,976 - INFO - Splitting documents into chunks...
+2025-04-22 18:21:19,984 - INFO - Split 138 documents into 310 chunks
+2025-04-22 18:21:19,987 - INFO - Loading existing vector store from egyptian_news_vectorstore
+2025-04-22 18:21:20,567 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-22 18:21:20,787 - INFO - Loaded vector store with 310 documents
+2025-04-22 18:21:20,787 - INFO - Set up retriever with contextual compression
+2025-04-22 18:21:20,788 - INFO - Set up QA chain with custom prompt
+2025-04-22 18:21:23,285 - INFO - Enhancing user query...
+2025-04-22 18:21:27,325 - INFO - Original query: '„« ÂÌ √ÕœÀ «· ÿÊ—«  ›Ì «·⁄·«ﬁ«  «·„’—Ì… «·”⁄ÊœÌ…ø'
+2025-04-22 18:21:27,326 - INFO - Enhanced query: '„« ÂÌ √ÕœÀ «· ÿÊ—«  ›Ì «·⁄·«ﬁ«  «·„’—Ì… «·”⁄ÊœÌ… Œ·«· «·√‘Â— «·À·«À… «·„«÷Ì…ø  Ê ‘„· Â–Â «· ÿÊ—«  «·“Ì«—«  «·—”„Ì…° Ê«·« ›«ﬁÌ«  «·«ﬁ ’«œÌ… √Ê «·”Ì«”Ì… «·„Êﬁ⁄…° Ê«· ’—ÌÕ«  «·—”„Ì… «·’«œ—… ⁄‰ ﬂ·« «·ÕﬂÊ„ Ì‰° »«·≈÷«›… ≈·Ï √Ì  Õ·Ì·«  √Ê  ﬁ«—Ì— ≈Œ»«—Ì… „‰ „’«œ— „ÊÀÊﬁ…  ÕÊ· «· ⁄«Ê‰ «·À‰«∆Ì »Ì‰ «·»·œÌ‰.'
+2025-04-22 18:21:32,802 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+].
+2025-04-22 18:21:51,397 - INFO - Rate limit reached. Waiting 30.38 seconds...
+2025-04-22 18:21:51,448 - ERROR - Error answering question: Expanders may not be nested inside other expanders.
+2025-04-22 18:22:11,087 - INFO - Loading Egyptian news data...
+2025-04-22 18:22:11,088 - INFO - Loading combined news data from egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 18:22:11,091 - INFO - Loaded 138 articles from combined file
+2025-04-22 18:22:11,093 - INFO - Creating document objects from articles...
+2025-04-22 18:22:11,093 - INFO - Created 138 document objects
+2025-04-22 18:22:11,094 - INFO - Splitting documents into chunks...
+2025-04-22 18:22:11,100 - INFO - Split 138 documents into 310 chunks
+2025-04-22 18:22:11,101 - INFO - Loading existing vector store from egyptian_news_vectorstore
+2025-04-22 18:22:11,107 - INFO - Loaded vector store with 310 documents
+2025-04-22 18:22:11,107 - INFO - Set up retriever with contextual compression
+2025-04-22 18:22:11,108 - INFO - Set up QA chain with custom prompt
+2025-04-22 18:22:16,012 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+].
+2025-04-22 18:28:00,280 - INFO - Loading Egyptian news data...
+2025-04-22 18:35:48,719 - INFO - Loading Egyptian news data...

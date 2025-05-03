@@ -1,0 +1,429 @@
+2025-04-22 16:57:01,371 - INFO - 
+==================================================
+2025-04-22 16:57:01,371 - INFO - Scraping website: Youm7
+2025-04-22 16:57:01,372 - INFO - ==================================================
+
+2025-04-22 16:57:01,372 - INFO - 
+Scraping section: https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1
+2025-04-22 16:57:07,252 - INFO - Found 40 article links on first page of https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1
+2025-04-22 16:57:07,252 - INFO - Scraping article links from: https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/2
+2025-04-22 16:57:22,864 - INFO - Found 40 article links on page 2 of https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1
+2025-04-22 16:57:29,541 - INFO - Scraping article links from: https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/3
+2025-04-22 16:57:54,573 - INFO - Found 40 article links on page 3 of https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1
+2025-04-22 16:58:01,366 - INFO - Found 20 article links in this section
+2025-04-22 16:58:01,366 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-«·Ê“—«¡-Ì «»⁄-„⁄-Ê“Ì—-ﬁÿ«⁄-«·√⁄„«·-„” Ãœ« - ÿÊÌ—-’‰«⁄…/6962729
+2025-04-22 16:58:08,908 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/ﬂ«„Ì—·Ì‰ÃÊ-√„—ÌﬂÏ-ﬁ«∆„-»√⁄„«·-«·›« Ìﬂ«‰-Õ Ï-«‰ Œ«»-«·»«»«-«·ÃœÌœ/6962655
+2025-04-22 16:58:17,065 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«· „ÊÌ‰-Ìƒﬂœ-œ⁄„-«·ÕﬂÊ„…-«·’‰«⁄« -Ê«·„‘—Ê⁄« -«·’€Ì—…-Ê«·„ Ê”ÿ…/6962688
+2025-04-22 16:58:26,256 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·√—œ‰-ÌÃœœ-—›÷Â-«· «„-·√Ì…-„Õ«Ê·« -· ÂÃÌ—-«·›·”ÿÌ‰ÌÌ‰-„‰-«·÷›…/6962689
+2025-04-22 16:58:35,684 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-«·Ê“—«¡-„‘—Ê⁄-—√”-«·Õﬂ„…-Ìœ⁄„-ÃÂÊœ-«·œÊ·…-· ÿÊÌ—-ﬁÿ«⁄/6962678
+2025-04-22 16:58:45,941 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„„À·-«·’Õ…-«·⁄«·„Ì…-«·√œÊÌ…-Ê«··ﬁ«Õ« -«·„’—Ì…-  „ ⁄-»›⁄«·Ì…-Ê„√„Ê‰Ì…-⁄«·Ì…/6962651
+2025-04-22 16:58:55,580 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«· „ÊÌ‰-„Ê”„- Ê—Ìœ-«·ﬁ„Õ-«·„Õ·Ï-·⁄«„-2025-Ì‘Âœ-«‰ÿ·«ﬁ…/6962668
+2025-04-22 16:59:05,393 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-«·Ê“—«¡-Ì «»⁄-„” Ãœ« - ‰›Ì–-„‘—Ê⁄-„œÌ‰…-—√”-«·Õﬂ„…/6962664
+2025-04-22 16:59:11,263 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/≈Ìÿ«·Ì«- ⁄·‰-«·Õœ«œ-«·Êÿ‰Ï-·„œ…-Œ„”…-√Ì«„-»⁄œ-Ê›«…-«·»«»«/6962639
+2025-04-22 16:59:21,552 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/ ﬁœÌ„-«·”«⁄…-60-œﬁÌﬁ…-„Ã·”-«·Ê“—«¡-»œ¡-«· ÊﬁÌ -«·’Ì›Ì-«·Œ„Ì”/6962616
+2025-04-22 16:59:30,118 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«·Œ«—ÃÌ…-„’—-” Ê«’·- ﬁœÌ„-ﬂ«›…-√ÊÃÂ-«·œ⁄„-··»‰«‰/6962594
+2025-04-22 16:59:39,081 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„„À·-«·’Õ…-«·⁄«·„Ì…-„’—- ⁄„·-⁄·Ï- ÊÿÌ‰-’‰«⁄…-«·√œÊÌ…-Ê«··ﬁ«Õ« /6962520
+2025-04-22 16:59:46,704 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/’‰«⁄…-«·‰Ê«»- Ê«›ﬁ-‰Â«∆Ì«-⁄·Ï- ⁄œÌ·-ﬁ«‰Ê‰-«·À—Ê…-«·„⁄œ‰Ì…/6962584
+2025-04-22 16:59:55,554 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/·ÊÕ…-”Ì«—…-—ﬁ„Â«-»-‰-3î-”⁄—Â«- ŒÿÏ-3-„·«ÌÌ‰/6962578
+2025-04-22 17:00:02,737 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Õ›·-’«Œ»-ÊŒ„Ê—-Ê√‰€«„-⁄—»Ì…-‰ ‰Ì«ÂÊ-Ê“ÊÃ Â-ÌÕ ›·«‰-»“›«›-‰Ã·Â„«/6962552
+2025-04-22 17:00:09,400 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·ﬁÊ« -«·„”·Õ…- Õ ›·-» Œ—ÌÃ-«·œ›⁄…-167-„‰-ﬂ·Ì…-«·÷»«ÿ-«·«Õ Ì«ÿ/6962553
+2025-04-22 17:00:18,023 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-Œ«—ÃÌ…-·»‰«‰-Õ’—-«·”·«Õ-»Ìœ-„ƒ””« -«·œÊ·…-„ÿ·»-‘⁄»Ï/6962539
+2025-04-22 17:00:25,610 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„”«⁄œ-—∆Ì”-ÂÌ∆…-«·œÊ«¡-„’—- ’œ—-·‹147-œÊ·…-›Ï-«·⁄«·„/6962467
+2025-04-22 17:00:36,547 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·ÿﬁ”-€œ«-«‰Œ›«÷- œ—ÌÃÏ-›Ï-œ—Ã« -«·Õ—«—…-Ê«·⁄Ÿ„Ï-»«·ﬁ«Â—…-35/6962533
+2025-04-22 17:00:43,879 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«·Œ«—ÃÌ…-ÌÃœœ-œ⁄„-„’—-·„ƒ””« -«·œÊ·…-«··»‰«‰Ì…-· ÕﬁÌﬁ-«·«” ﬁ—«—/6962527
+2025-04-22 17:00:50,767 - INFO - 
+Scraping section: https://www.youm7.com/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/1
+2025-04-22 17:00:54,222 - INFO - Found 40 article links on first page of https://www.youm7.com/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/1
+2025-04-22 17:00:54,222 - INFO - Scraping article links from: https://www.youm7.com/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/2
+2025-04-22 17:01:25,719 - INFO - Found 40 article links on page 2 of https://www.youm7.com/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/1
+2025-04-22 17:01:29,714 - INFO - Scraping article links from: https://www.youm7.com/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/3
+2025-04-22 17:01:51,941 - INFO - Found 40 article links on page 3 of https://www.youm7.com/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/1
+2025-04-22 17:01:57,930 - INFO - Found 20 article links in this section
+2025-04-22 17:01:57,930 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-ﬁÿ«⁄-«·√⁄„«·-⁄‰-√ Ê»Ì”« -‘—ﬁ-Ê€—»-«·œ· «- ”·Ì„-73/6962576
+2025-04-22 17:02:06,708 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„Õ„œ-«·‘Ì„Ï-47-‘—ﬂ…-—«»Õ…-23-24-Ê«‰ Â«¡- ÿÊÌ—-‘—ﬂ« /6962521
+2025-04-22 17:02:16,218 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-„Ã·”-«·‘ÌÊŒ-Ì” ﬁ»·-Ê“Ì—-ﬁÿ«⁄-«·√⁄„«·-«·⁄«„/6962641
+2025-04-22 17:02:26,215 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/··„—…-«·‹5-«·’Õ›ÌÌ‰- œ⁄Ê-·«Ã „«⁄-··Ã„⁄Ì…-«·⁄„Ê„Ì…-··«‰ Œ«»« -2-„«ÌÊ/6962602
+2025-04-22 17:02:33,646 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·‘ÌÊŒ-ÌıÕÌ·-ÿ·»« -„‰«ﬁ‘…-ÕÊ·- ÊÿÌ‰-«· ﬂ‰Ê·ÊÃÌ«-«·’‰«⁄Ì…-Ê ⁄ﬁÌ»-«·Ê“Ì—/6962566
+2025-04-22 17:02:43,530 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/»œ¡-«Ã „«⁄-’‰«⁄…-«·‰Ê«»-·„‰«ﬁ‘…- ⁄œÌ·-ﬁ«‰Ê‰-«·À—Ê…-«·„⁄œ‰Ì…/6962542
+2025-04-22 17:02:51,203 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„Ã·”-«·‘ÌÊŒ-Ì—›⁄-«·Ã·”…-«·⁄«„…-ÊÌ‰«ﬁ‘-„·›-«· ’‰Ì⁄-«·“—«⁄Ï-Ê«·√„‰/6962546
+2025-04-22 17:02:58,761 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·Êÿ‰Ì…-··«‰ Œ«»« -„œ«—”-«·ÕﬂÊ„…- „«—”-«·œÌ„ﬁ—«ÿÌ…-»œ·Ì·-«‰ Œ«»« -√„Ì‰-«·›’·/6962454
+2025-04-22 17:03:04,989 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·ﬁÊ„Ï-·ÕﬁÊﬁ-«·≈‰”«‰-Ì“Ê—-‘„«·-”Ì‰«¡-·„ «»⁄…- ÿ»Ìﬁ-«· √„Ì‰-«·’ÕÏ/6962495
+2025-04-22 17:03:13,544 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”- ⁄·Ì„-«·‘ÌÊŒ-≈Ã—«¡« -Ã«œ…-„‰-«·ÕﬂÊ„…-·œ⁄„-«·’‰«⁄…-«·Êÿ‰Ì…/6962490
+2025-04-22 17:03:20,555 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„‘Ì—…-Œÿ«»-œÊ—-«·Êÿ‰Ì…-··«‰ Œ«»« -›Ï-—›⁄-Ê⁄Ï-«·„Ê«ÿ‰Ì‰-„”ƒÊ·Ì…/6962418
+2025-04-22 17:03:29,738 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/⁄»œ-«·„Õ”‰-”·«„…-”Ì „- ⁄ÌÌ‰-ﬂ«›…-«·’Õ›ÌÌ‰-»«·⁄ﬁÊœ-›Ï-«·’Õ›/6962436
+2025-04-22 17:03:38,303 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/⁄»œ-«·„Õ”‰-”·«„…-Ì⁄·‰- ›«’Ì·-1500-‘ﬁ…-Ê328-ﬁÿ⁄…-√—÷/6962472
+2025-04-22 17:03:48,395 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/»—·„«‰Ì…-«·„ƒ „—- ÿ«·»-«” €·«·-«·⁄ﬁ«—« -«· «»⁄…-·‘—ﬂ« -ﬁÿ«⁄-«·√⁄„«·/6962475
+2025-04-22 17:03:58,266 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/√Ì„‰-⁄»œ-«·„Õ”‰- ÿÊÌ—-ﬁÿ«⁄-«·√⁄„«·-«·⁄«„-÷—Ê—…-· ⁄“Ì“-«·«ﬁ ’«œ/6962406
+2025-04-22 17:04:09,144 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Õ”«„-«·ŒÊ·Ï-·«-Ì„ﬂ‰-„Õ«”»…-ﬁÿ«⁄-«·√⁄„«·-»„‰ÿﬁ-«·ﬁÿ«⁄-«·Œ«’/6962397
+2025-04-22 17:04:19,833 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-ÿ«ﬁ…-«·‘ÌÊŒ-≈Ã—«¡« -«·œÊ·…-··ÕÊﬂ„…-«” À„«—-«ﬁ ’«œÏ-Ê„Õ—ﬂ-›«⁄·/6962403
+2025-04-22 17:04:29,628 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/·Ã‰…-«‰ Œ«»« -‰ﬁ«»…-«·’Õ›ÌÌ‰- œ⁄Ê-«·“„·«¡-··„‘«—ﬂ…-›Ï-«··Ã‰…-«· ‰ŸÌ„Ì…/6962334
+2025-04-22 17:04:41,097 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-»—·„«‰Ì…-«·‘⁄»-«·Ã„ÂÊ—Ì-»«·‘ÌÊŒ-Ìÿ«·»-»ﬂ‘›-√Ê÷«⁄-‘—ﬂ« -ﬁÿ«⁄/6962400
+2025-04-22 17:04:48,263 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/ÊﬂÌ·-«·‘ÌÊŒ-≈⁄«œ…-ÂÌﬂ·…-‘—ﬂ« -ﬁÿ«⁄-«·√⁄„«·-«·⁄«„- › Õ-«·„Ã«·/6962346
+2025-04-22 17:04:56,828 - INFO - 
+Scraping section: https://www.youm7.com/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/318/1
+2025-04-22 17:05:01,818 - INFO - Found 40 article links on first page of https://www.youm7.com/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/318/1
+2025-04-22 17:05:01,818 - INFO - Scraping article links from: https://www.youm7.com/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/318/2
+2025-04-22 17:05:05,934 - WARNING - No articles found using selector 'div.col-xs-12' on https://www.youm7.com/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/318/2
+2025-04-22 17:05:05,944 - ERROR - No articles found with fallback selectors on https://www.youm7.com/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/318/2
+2025-04-22 17:05:05,944 - INFO - No articles found on page 2 of https://www.youm7.com/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/318/1, stopping pagination
+2025-04-22 17:05:05,944 - INFO - Found 20 article links in this section
+2025-04-22 17:05:05,944 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-«·Ê“—«¡-Ì «»⁄-„⁄-Ê“Ì—-ﬁÿ«⁄-«·√⁄„«·-„” Ãœ« - ÿÊÌ—-’‰«⁄…/6962729
+2025-04-22 17:05:11,807 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/ﬂ«„Ì—·Ì‰ÃÊ-√„—ÌﬂÏ-ﬁ«∆„-»√⁄„«·-«·›« Ìﬂ«‰-Õ Ï-«‰ Œ«»-«·»«»«-«·ÃœÌœ/6962655
+2025-04-22 17:05:20,792 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«· „ÊÌ‰-Ìƒﬂœ-œ⁄„-«·ÕﬂÊ„…-«·’‰«⁄« -Ê«·„‘—Ê⁄« -«·’€Ì—…-Ê«·„ Ê”ÿ…/6962688
+2025-04-22 17:05:31,309 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·√—œ‰-ÌÃœœ-—›÷Â-«· «„-·√Ì…-„Õ«Ê·« -· ÂÃÌ—-«·›·”ÿÌ‰ÌÌ‰-„‰-«·÷›…/6962689
+2025-04-22 17:05:40,880 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-«·Ê“—«¡-„‘—Ê⁄-—√”-«·Õﬂ„…-Ìœ⁄„-ÃÂÊœ-«·œÊ·…-· ÿÊÌ—-ﬁÿ«⁄/6962678
+2025-04-22 17:05:49,101 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„„À·-«·’Õ…-«·⁄«·„Ì…-«·√œÊÌ…-Ê«··ﬁ«Õ« -«·„’—Ì…-  „ ⁄-»›⁄«·Ì…-Ê„√„Ê‰Ì…-⁄«·Ì…/6962651
+2025-04-22 17:06:00,342 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«· „ÊÌ‰-„Ê”„- Ê—Ìœ-«·ﬁ„Õ-«·„Õ·Ï-·⁄«„-2025-Ì‘Âœ-«‰ÿ·«ﬁ…/6962668
+2025-04-22 17:06:11,121 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/—∆Ì”-«·Ê“—«¡-Ì «»⁄-„” Ãœ« - ‰›Ì–-„‘—Ê⁄-„œÌ‰…-—√”-«·Õﬂ„…/6962664
+2025-04-22 17:06:20,824 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/≈Ìÿ«·Ì«- ⁄·‰-«·Õœ«œ-«·Êÿ‰Ï-·„œ…-Œ„”…-√Ì«„-»⁄œ-Ê›«…-«·»«»«/6962639
+2025-04-22 17:06:31,595 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/ ﬁœÌ„-«·”«⁄…-60-œﬁÌﬁ…-„Ã·”-«·Ê“—«¡-»œ¡-«· ÊﬁÌ -«·’Ì›Ì-«·Œ„Ì”/6962616
+2025-04-22 17:06:38,547 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«·Œ«—ÃÌ…-„’—-” Ê«’·- ﬁœÌ„-ﬂ«›…-√ÊÃÂ-«·œ⁄„-··»‰«‰/6962594
+2025-04-22 17:06:46,742 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„„À·-«·’Õ…-«·⁄«·„Ì…-„’—- ⁄„·-⁄·Ï- ÊÿÌ‰-’‰«⁄…-«·√œÊÌ…-Ê«··ﬁ«Õ« /6962520
+2025-04-22 17:06:57,048 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/’‰«⁄…-«·‰Ê«»- Ê«›ﬁ-‰Â«∆Ì«-⁄·Ï- ⁄œÌ·-ﬁ«‰Ê‰-«·À—Ê…-«·„⁄œ‰Ì…/6962584
+2025-04-22 17:07:07,378 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/·ÊÕ…-”Ì«—…-—ﬁ„Â«-»-‰-3î-”⁄—Â«- ŒÿÏ-3-„·«ÌÌ‰/6962578
+2025-04-22 17:07:13,076 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Õ›·-’«Œ»-ÊŒ„Ê—-Ê√‰€«„-⁄—»Ì…-‰ ‰Ì«ÂÊ-Ê“ÊÃ Â-ÌÕ ›·«‰-»“›«›-‰Ã·Â„«/6962552
+2025-04-22 17:07:21,493 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·ﬁÊ« -«·„”·Õ…- Õ ›·-» Œ—ÌÃ-«·œ›⁄…-167-„‰-ﬂ·Ì…-«·÷»«ÿ-«·«Õ Ì«ÿ/6962553
+2025-04-22 17:07:36,830 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-Œ«—ÃÌ…-·»‰«‰-Õ’—-«·”·«Õ-»Ìœ-„ƒ””« -«·œÊ·…-„ÿ·»-‘⁄»Ï/6962539
+2025-04-22 17:07:44,280 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/„”«⁄œ-—∆Ì”-ÂÌ∆…-«·œÊ«¡-„’—- ’œ—-·‹147-œÊ·…-›Ï-«·⁄«·„/6962467
+2025-04-22 17:07:53,911 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/«·ÿﬁ”-€œ«-«‰Œ›«÷- œ—ÌÃÏ-›Ï-œ—Ã« -«·Õ—«—…-Ê«·⁄Ÿ„Ï-»«·ﬁ«Â—…-35/6962533
+2025-04-22 17:08:02,300 - INFO - Scraping article: https://www.youm7.com/story/2025/4/22/Ê“Ì—-«·Œ«—ÃÌ…-ÌÃœœ-œ⁄„-„’—-·„ƒ””« -«·œÊ·…-«··»‰«‰Ì…-· ÕﬁÌﬁ-«·«” ﬁ—«—/6962527
+2025-04-22 17:08:12,385 - INFO - Saved 60 articles from Youm7 to egyptian_news_dataset\youm7_articles_20250422_170812.json
+2025-04-22 17:08:12,385 - INFO - 
+==================================================
+2025-04-22 17:08:12,385 - INFO - Scraping website: Al-Ahram
+2025-04-22 17:08:12,385 - INFO - ==================================================
+
+2025-04-22 17:08:12,386 - INFO - 
+Scraping section: https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx
+2025-04-22 17:08:19,094 - WARNING - No articles found using selector 'div.item' on https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx
+2025-04-22 17:08:19,112 - ERROR - No articles found with fallback selectors on https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx
+2025-04-22 17:08:19,112 - INFO - Found 0 article links on first page of https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx
+2025-04-22 17:08:19,112 - INFO - Scraping article links from: https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx?page=2
+2025-04-22 17:08:34,143 - WARNING - No articles found using selector 'div.item' on https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx?page=2
+2025-04-22 17:08:34,163 - ERROR - No articles found with fallback selectors on https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx?page=2
+2025-04-22 17:08:34,163 - INFO - No articles found on page 2 of https://gate.ahram.org.eg/Portal/13/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.aspx, stopping pagination
+2025-04-22 17:08:34,163 - INFO - Found 0 article links in this section
+2025-04-22 17:08:34,163 - INFO - 
+Scraping section: https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx
+2025-04-22 17:08:41,745 - WARNING - No articles found using selector 'div.item' on https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx
+2025-04-22 17:08:41,761 - ERROR - No articles found with fallback selectors on https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx
+2025-04-22 17:08:41,762 - INFO - Found 0 article links on first page of https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx
+2025-04-22 17:08:41,762 - INFO - Scraping article links from: https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx?page=2
+2025-04-22 17:08:51,329 - WARNING - No articles found using selector 'div.item' on https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx?page=2
+2025-04-22 17:08:51,348 - ERROR - No articles found with fallback selectors on https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx?page=2
+2025-04-22 17:08:51,348 - INFO - No articles found on page 2 of https://gate.ahram.org.eg/Portal/4/%D8%AD%D9%80%D9%88%D8%A7%D8%AF%D8%AB.aspx, stopping pagination
+2025-04-22 17:08:51,349 - INFO - Found 0 article links in this section
+2025-04-22 17:08:51,349 - INFO - 
+Scraping section: https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx
+2025-04-22 17:08:58,590 - WARNING - No articles found using selector 'div.item' on https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx
+2025-04-22 17:08:58,607 - ERROR - No articles found with fallback selectors on https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx
+2025-04-22 17:08:58,607 - INFO - Found 0 article links on first page of https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx
+2025-04-22 17:08:58,607 - INFO - Scraping article links from: https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx?page=2
+2025-04-22 17:09:05,016 - WARNING - No articles found using selector 'div.item' on https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx?page=2
+2025-04-22 17:09:05,032 - ERROR - No articles found with fallback selectors on https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx?page=2
+2025-04-22 17:09:05,032 - INFO - No articles found on page 2 of https://gate.ahram.org.eg/Portal/25/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86.aspx, stopping pagination
+2025-04-22 17:09:05,032 - INFO - Found 0 article links in this section
+2025-04-22 17:09:05,032 - WARNING - No articles to save for ahram
+2025-04-22 17:09:05,032 - INFO - 
+==================================================
+2025-04-22 17:09:05,032 - INFO - Scraping website: Masrawy
+2025-04-22 17:09:05,032 - INFO - ==================================================
+
+2025-04-22 17:09:05,033 - INFO - 
+Scraping section: https://www.masrawy.com/news/news_egypt/section/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1#nav
+2025-04-22 17:09:12,509 - INFO - Found 24 article links on first page of https://www.masrawy.com/news/news_egypt/section/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1#nav
+2025-04-22 17:09:12,509 - INFO - Scraping article links from: https://www.masrawy.com/news/news_egypt/section/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1#nav?p=2
+2025-04-22 17:09:18,708 - INFO - Found 24 article links on page 2 of https://www.masrawy.com/news/news_egypt/section/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1#nav
+2025-04-22 17:09:22,685 - INFO - Scraping article links from: https://www.masrawy.com/news/news_egypt/section/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1#nav?p=3
+2025-04-22 17:09:26,992 - INFO - Found 24 article links on page 3 of https://www.masrawy.com/news/news_egypt/section/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1#nav
+2025-04-22 17:09:32,804 - INFO - Found 20 article links in this section
+2025-04-22 17:09:32,804 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775335/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-#sectionListing
+2025-04-22 17:09:44,857 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775333/-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%85%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D8%AD%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D9%84%D9%84%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC-%D8%A7#sectionListing
+2025-04-22 17:09:51,844 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775324/-%D9%88%D8%B2%D9%8A%D8%B1-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-42-%D8%A3%D9%84%D9%81-%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D8%B1%D9%87%D9%85-%D9%85%D9%86-50-%D8%A5%D9%84%D9%89-60-%D8%B3%D9%86%D8%A9-#sectionListing
+2025-04-22 17:09:58,219 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775315/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%A8-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A8%D8%A7%D8%B3%D8%AA%D8%A8%D8%AF%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A8%D8%B6%D8%B1%D9%8A%D8%A8%D8%A9-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D8%AE%D8%B7%D9%88%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-#sectionListing
+2025-04-22 17:10:08,208 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775314/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA-%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A8%D8%B4%D9%83%D9%84-%D9%85%D9%84%D8%AD%D9%88%D8%B8-%D9%81%D9%8A-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF#sectionListing
+2025-04-22 17:10:19,360 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775311/%D8%B9%D9%84%D8%A7-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A-%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D8%A7%D8%B3%D8%A8%D9%8A%D8%B1%D9%88-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AF%D9%81%D8%B9%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%84%D9%84%D9%86%D9%87%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9#sectionListing
+2025-04-22 17:10:28,416 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775307/%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-60-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%85%D9%87%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A#sectionListing
+2025-04-22 17:10:36,809 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775305/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D8%AD%D9%8A%D9%84-%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%84%D9%84%D8%AC%D9%86%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-#sectionListing
+2025-04-22 17:10:47,046 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775301/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%AA%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC-%D8%A7%D9%84%D8%AF%D9%81%D8%B9%D8%A9-167-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7#sectionListing
+2025-04-22 17:10:53,930 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775294/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AB%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D9%86%D9%8A%D8%A9#sectionListing
+2025-04-22 17:11:02,183 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775292/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%B3%D8%B9-%D8%AC%D8%B1%D8%A7%D8%AD-%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B0%D8%B1-%D9%84%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%83%D9%86%D8%AA-%D8%A3%D9%82%D8%B5%D8%AF%D9%87#sectionListing
+2025-04-22 17:11:13,374 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775289/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%85%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D9%81%D8%AF-%D8%A7#sectionListing
+2025-04-22 17:11:22,991 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775287/%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A6%D8%A9-%D9%84%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%A8%D8%AD%D9%82-%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6#sectionListing
+2025-04-22 17:11:30,530 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775279/%D8%B7%D9%84%D8%A8-%D8%A5%D8%AD%D8%A7%D8%B7%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D8%B9%D9%82%D9%8A%D8%AF-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D8%AF%D9%8A%D8%A9-#sectionListing
+2025-04-22 17:11:42,208 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775277/-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AD%D9%85%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%84%D9%84%D9%86%D9%87%D9%88%D8%B6#sectionListing
+2025-04-22 17:11:51,817 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775275/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A9-%D8%A8%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AB%D8%B1%D8%A9#sectionListing
+2025-04-22 17:12:00,899 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775270/%D9%87%D8%A7%D9%86%D9%8A-%D8%B1%D9%85%D8%B2%D9%8A-%D9%84%D8%A7%D9%85-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A3%D8%B9%D8%B8%D9%85-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-#sectionListing
+2025-04-22 17:12:07,606 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775259/%D8%B5%D9%88%D8%B1-%D8%AD%D9%85%D9%84%D8%A9-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%BA%D8%A7%D9%84%D8%A7%D8%AA-%D8%A8%D9%85%D8%AD%D9%8A%D8%B7-%D9%85%D8%AD%D8%B7%D8%A9-%D8%B9%D8%AF%D9%84%D9%8A-%D9%85%D9%86%D8%B5%D9%88%D8%B1#sectionListing
+2025-04-22 17:12:18,211 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775257/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%8A%D9%87%D9%86%D8%A6-%D8%A3%D8%B3%D9%82%D9%81-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B1%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%AB%D9%88%D9%84%D9%8A%D9%83-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9#sectionListing
+2025-04-22 17:12:26,159 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/22/2775256/-%D9%82%D9%88%D9%85%D9%8A-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%8A%D8%B2%D9%88%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84#sectionListing
+2025-04-22 17:12:33,739 - INFO - 
+Scraping section: https://www.masrawy.com/news/news_economy/section/206/#nav
+2025-04-22 17:12:37,964 - INFO - Found 24 article links on first page of https://www.masrawy.com/news/news_economy/section/206/#nav
+2025-04-22 17:12:37,964 - INFO - Scraping article links from: https://www.masrawy.com/news/news_economy/section/206/#nav?p=2
+2025-04-22 17:12:43,150 - INFO - Found 24 article links on page 2 of https://www.masrawy.com/news/news_economy/section/206/#nav
+2025-04-22 17:12:47,654 - INFO - Scraping article links from: https://www.masrawy.com/news/news_economy/section/206/#nav?p=3
+2025-04-22 17:12:54,698 - INFO - Found 24 article links on page 3 of https://www.masrawy.com/news/news_economy/section/206/#nav
+2025-04-22 17:12:59,774 - INFO - Found 20 article links in this section
+2025-04-22 17:12:59,774 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775341/%D9%85%D9%86%D8%AD%D8%A9-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B7%D9%84%D9%82%D8%AA%D9%87%D8%A7-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-#sectionListing
+2025-04-22 17:13:08,522 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775338/%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA%D9%87-%D9%84%D9%86%D9%85%D9%88-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%B5%D8%B1#sectionListing
+2025-04-22 17:13:20,009 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775316/%D8%A7%D9%84%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A-%D9%84%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%8A%D9%87%D8%A8%D8%B7-%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1#sectionListing
+2025-04-22 17:13:28,802 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775312/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%86-%D8%A8%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-22-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84-2025#sectionListing
+2025-04-22 17:13:38,116 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775272/%D9%86%D8%A7%D8%B5%D9%81-%D8%B3%D8%A7%D9%88%D9%8A%D8%B1%D8%B3-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%AA%D9%87-%D9%85%D9%86-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%B3%D9%88%D8%A1-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9#sectionListing
+2025-04-22 17:13:47,686 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775268/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%B7%D9%85%D8%A7%D8%B7%D9%85-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A8%D8%B1%D9%8A-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8#sectionListing
+2025-04-22 17:13:57,553 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775216/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A3%D9%8A%D9%85%D9%86-%D8%AD%D8%A7%D9%85%D8%AF-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86#sectionListing
+2025-04-22 17:14:07,184 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775214/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A8%D9%8A%D8%B9-%D9%85%D9%82%D8%AF%D9%85%D9%8A-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA#sectionListing
+2025-04-22 17:14:15,158 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775190/%D9%82%D9%81%D8%B2%D8%A9-%D9%81%D9%8A-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-#sectionListing
+2025-04-22 17:14:22,853 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775174/%D9%85%D8%B5%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%B6%D8%B1%D8%A7%D8%A6%D8%A8-%D9%84%D9%86-%D9%8A%D8%AA%D9%85-%D9%82%D8%A8%D9%88%D9%84-%D8%A3%D9%8A-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9-%D9%88%D8%B1%D9%82%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D9%8A%D9%88%D9%84%D9%8A%D9%88-2023#sectionListing
+2025-04-22 17:14:33,711 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775168/%D8%B1%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D9%88%D9%86#sectionListing
+2025-04-22 17:14:40,143 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775153/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%AF%D9%88%D9%84%D9%8A#sectionListing
+2025-04-22 17:14:48,574 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775119/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D8%B1%D8%BA%D9%85-%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9-#sectionListing
+2025-04-22 17:14:58,717 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775094/%D8%B4%D8%B1%D9%83%D8%A9-%D8%B4%D8%A7%D9%8A-%D8%AA%D8%AD%D9%88%D9%84-%D9%85%D8%A4%D8%B3%D8%B3%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%AF%D9%8A%D8%B1-%D9%81%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9-#sectionListing
+2025-04-22 17:15:08,056 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775091/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AC%D9%85%D8%A8%D8%B1%D9%8A-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%85%D9%83-%D9%88%D8%A7%D9%84%D9%85%D8%A3%D9%83%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85#sectionListing
+2025-04-22 17:15:17,608 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775080/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%B7%D9%85%D8%A7%D8%B7%D9%85-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D8%A7%D9%83%D9%87%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1#sectionListing
+2025-04-22 17:15:29,056 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775079/-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%B1%D8%B3%D9%85%D9%8A-#sectionListing
+2025-04-22 17:15:39,347 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775078/%D8%A7%D9%84%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A-%D9%84%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%8A%D9%87%D8%A8%D8%B7-%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7-%D8%A8%D9%85%D8%B3%D8%AA%D9%87%D9%84-%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-#sectionListing
+2025-04-22 17:15:48,016 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775075/-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%B1%D8%B3%D9%85%D9%8A-#sectionListing
+2025-04-22 17:15:56,282 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775066/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%AC%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%B1%D8%B3%D9%85%D9%8A-#sectionListing
+2025-04-22 17:16:05,341 - INFO - 
+Scraping section: https://www.masrawy.com/news/education#nav
+2025-04-22 17:16:11,467 - INFO - Found 8 article links on first page of https://www.masrawy.com/news/education#nav
+2025-04-22 17:16:11,467 - INFO - Scraping article links from: https://www.masrawy.com/news/education#nav?p=2
+2025-04-22 17:16:17,674 - INFO - Found 8 article links on page 2 of https://www.masrawy.com/news/education#nav
+2025-04-22 17:16:24,374 - INFO - Scraping article links from: https://www.masrawy.com/news/education#nav?p=3
+2025-04-22 17:16:28,355 - INFO - Found 8 article links on page 3 of https://www.masrawy.com/news/education#nav
+2025-04-22 17:16:32,974 - INFO - Found 8 article links in this section
+2025-04-22 17:16:32,974 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/21/2774827/%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%85-%D9%8A%D9%82%D9%81%D8%B2-122-%D8%AC%D9%86%D9%8A%D9%87%D8%A7-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-#HP-News
+2025-04-22 17:16:38,500 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2025/4/21/2774968/%D9%85%D8%AA%D9%89-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D9%81%D9%89-%D8%AA%D9%81%D8%B1%D9%8A%D8%BA-%D8%B3%D8%AF-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9-%D8%AE%D8%A8%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84#HP-News
+2025-04-22 17:16:47,971 - INFO - Scraping article: https://www.masrawy.com/news/news_economy/details/2025/4/22/2775037/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-22-4-2025-%D9%85%D8%B9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-#HP-News
+2025-04-22 17:16:57,516 - INFO - Scraping article: https://www.masrawy.com/news/news_cases/details/2025/4/21/2774848/%D8%A7%D8%BA%D8%AA%D8%B5%D8%A8-%D8%B7%D9%81%D9%84%D8%AA%D9%87-%D9%88%D8%A3%D8%AC%D8%A8%D8%B1-%D8%A7%D8%A8%D9%86-%D8%AE%D8%A7%D9%84%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%82%D8%B9%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B9%D8%A7%D9%82%D8%A8-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%81%D8%A7-#HP-News
+2025-04-22 17:17:06,009 - INFO - Scraping article: https://www.masrawy.com/news/news_cases/details/2025/4/22/2775039/%D8%B1%D8%AC%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D9%82%D9%89-%D9%85%D8%B1%D8%A7%D8%AA%D9%87-%D9%85%D8%AA%D8%AC%D9%88%D8%B2%D8%A9-%D9%88%D9%85%D8%AE%D9%84%D9%81%D8%A9-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%AD%D8%B3%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D9%85%D8%AF%D9%8A%D8%A9-%D9%88%D8%AC%D9%85%D8%B9%D9%87%D8%A7-%D8%A8%D9%8A%D9%86#HP-News
+2025-04-22 17:17:17,274 - INFO - Scraping article: https://www.masrawy.com/news/news_egypt/details/2021/8/23/2077428/%D9%84%D8%A8%D8%AF%D8%A1-%D8%B9%D8%A7%D9%85-%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A2%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AA%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D8%B9%D9%8A%D9%85#Education-Videos-HP
+2025-04-22 17:17:25,534 - INFO - Scraping article: https://www.masrawy.com/news/news-videos/details/2021/8/23/2077118/%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%88%D9%81%D8%A7%D8%AA%D9%87%D8%A7-%D8%A3%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-50-#Education-Videos-HP
+2025-04-22 17:17:34,034 - INFO - Scraping article: https://www.masrawy.com/news/news-videos/details/2021/8/23/2077207/-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%88%D9%87%D8%A7%D8%AC-%D8%AA%D8%B3%D8%AA%D8%AC%D9%8A%D8%A8-%D9%84%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D9%85%D9%86%D8%AD%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D9%82-%D9%8A%D9%88%D8%B6%D8%AD#Education-Videos-HP
+2025-04-22 17:17:44,398 - INFO - Saved 48 articles from Masrawy to egyptian_news_dataset\masrawy_articles_20250422_171744.json
+2025-04-22 17:17:44,398 - INFO - 
+==================================================
+2025-04-22 17:17:44,398 - INFO - Scraping website: El Watan News
+2025-04-22 17:17:44,398 - INFO - ==================================================
+
+2025-04-22 17:17:44,398 - INFO - 
+Scraping section: https://www.elwatannews.com/section/115
+2025-04-22 17:17:50,957 - INFO - Found 10 article links on first page of https://www.elwatannews.com/section/115
+2025-04-22 17:17:50,957 - INFO - Scraping article links from: https://www.elwatannews.com/section/115/page/2
+2025-04-22 17:17:55,173 - WARNING - Failed to retrieve https://www.elwatannews.com/section/115/page/2. Status code: 404. Attempt 1/3
+2025-04-22 17:18:09,392 - WARNING - Failed to retrieve https://www.elwatannews.com/section/115/page/2. Status code: 404. Attempt 2/3
+2025-04-22 17:18:25,182 - WARNING - Failed to retrieve https://www.elwatannews.com/section/115/page/2. Status code: 404. Attempt 3/3
+2025-04-22 17:18:34,727 - ERROR - Failed to retrieve https://www.elwatannews.com/section/115/page/2 after 3 attempts
+2025-04-22 17:18:34,727 - WARNING - Failed to retrieve page 2 of https://www.elwatannews.com/section/115
+2025-04-22 17:18:34,727 - INFO - Scraping article links from: https://www.elwatannews.com/section/115/page/3
+2025-04-22 17:18:39,948 - WARNING - Failed to retrieve https://www.elwatannews.com/section/115/page/3. Status code: 404. Attempt 1/3
+2025-04-22 17:18:59,225 - WARNING - Failed to retrieve https://www.elwatannews.com/section/115/page/3. Status code: 404. Attempt 2/3
+2025-04-22 17:19:13,907 - WARNING - Failed to retrieve https://www.elwatannews.com/section/115/page/3. Status code: 404. Attempt 3/3
+2025-04-22 17:19:27,234 - ERROR - Failed to retrieve https://www.elwatannews.com/section/115/page/3 after 3 attempts
+2025-04-22 17:19:27,234 - WARNING - Failed to retrieve page 3 of https://www.elwatannews.com/section/115
+2025-04-22 17:19:27,234 - INFO - Found 10 article links in this section
+2025-04-22 17:19:27,234 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067559
+2025-04-22 17:19:34,929 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067553
+2025-04-22 17:19:43,555 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067547
+2025-04-22 17:19:51,900 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067548
+2025-04-22 17:20:00,417 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067544
+2025-04-22 17:20:10,054 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067540
+2025-04-22 17:20:19,017 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067542
+2025-04-22 17:20:27,721 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067537
+2025-04-22 17:20:39,216 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067533
+2025-04-22 17:20:48,616 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067535
+2025-04-22 17:20:56,099 - INFO - 
+Scraping section: https://www.elwatannews.com/section/39
+2025-04-22 17:21:00,377 - INFO - Found 10 article links on first page of https://www.elwatannews.com/section/39
+2025-04-22 17:21:00,377 - INFO - Scraping article links from: https://www.elwatannews.com/section/39/page/2
+2025-04-22 17:21:07,116 - WARNING - Failed to retrieve https://www.elwatannews.com/section/39/page/2. Status code: 404. Attempt 1/3
+2025-04-22 17:21:18,850 - WARNING - Failed to retrieve https://www.elwatannews.com/section/39/page/2. Status code: 404. Attempt 2/3
+2025-04-22 17:21:37,424 - WARNING - Failed to retrieve https://www.elwatannews.com/section/39/page/2. Status code: 404. Attempt 3/3
+2025-04-22 17:21:50,775 - ERROR - Failed to retrieve https://www.elwatannews.com/section/39/page/2 after 3 attempts
+2025-04-22 17:21:50,775 - WARNING - Failed to retrieve page 2 of https://www.elwatannews.com/section/39
+2025-04-22 17:21:50,775 - INFO - Scraping article links from: https://www.elwatannews.com/section/39/page/3
+2025-04-22 17:21:55,745 - WARNING - Failed to retrieve https://www.elwatannews.com/section/39/page/3. Status code: 404. Attempt 1/3
+2025-04-22 17:22:12,703 - WARNING - Failed to retrieve https://www.elwatannews.com/section/39/page/3. Status code: 404. Attempt 2/3
+2025-04-22 17:22:30,684 - WARNING - Failed to retrieve https://www.elwatannews.com/section/39/page/3. Status code: 404. Attempt 3/3
+2025-04-22 17:22:43,781 - ERROR - Failed to retrieve https://www.elwatannews.com/section/39/page/3 after 3 attempts
+2025-04-22 17:22:43,781 - WARNING - Failed to retrieve page 3 of https://www.elwatannews.com/section/39
+2025-04-22 17:22:43,781 - INFO - Found 10 article links in this section
+2025-04-22 17:22:43,781 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067560
+2025-04-22 17:22:51,912 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067525
+2025-04-22 17:23:01,411 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067514
+2025-04-22 17:23:11,435 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067513
+2025-04-22 17:23:20,348 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067519
+2025-04-22 17:23:26,444 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067539
+2025-04-22 17:23:33,258 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067504
+2025-04-22 17:23:40,191 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067497
+2025-04-22 17:23:47,385 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067478
+2025-04-22 17:23:57,158 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067466
+2025-04-22 17:24:06,227 - INFO - 
+Scraping section: https://www.elwatannews.com/section/77
+2025-04-22 17:24:10,151 - INFO - Found 10 article links on first page of https://www.elwatannews.com/section/77
+2025-04-22 17:24:10,151 - INFO - Scraping article links from: https://www.elwatannews.com/section/77/page/2
+2025-04-22 17:24:14,268 - WARNING - Failed to retrieve https://www.elwatannews.com/section/77/page/2. Status code: 404. Attempt 1/3
+2025-04-22 17:24:27,190 - WARNING - Failed to retrieve https://www.elwatannews.com/section/77/page/2. Status code: 404. Attempt 2/3
+2025-04-22 17:24:39,440 - WARNING - Failed to retrieve https://www.elwatannews.com/section/77/page/2. Status code: 404. Attempt 3/3
+2025-04-22 17:24:47,328 - ERROR - Failed to retrieve https://www.elwatannews.com/section/77/page/2 after 3 attempts
+2025-04-22 17:24:47,328 - WARNING - Failed to retrieve page 2 of https://www.elwatannews.com/section/77
+2025-04-22 17:24:47,328 - INFO - Scraping article links from: https://www.elwatannews.com/section/77/page/3
+2025-04-22 17:24:54,268 - WARNING - Failed to retrieve https://www.elwatannews.com/section/77/page/3. Status code: 404. Attempt 1/3
+2025-04-22 17:25:12,081 - WARNING - Failed to retrieve https://www.elwatannews.com/section/77/page/3. Status code: 404. Attempt 2/3
+2025-04-22 17:25:26,634 - WARNING - Failed to retrieve https://www.elwatannews.com/section/77/page/3. Status code: 404. Attempt 3/3
+2025-04-22 17:25:36,446 - ERROR - Failed to retrieve https://www.elwatannews.com/section/77/page/3 after 3 attempts
+2025-04-22 17:25:36,446 - WARNING - Failed to retrieve page 3 of https://www.elwatannews.com/section/77
+2025-04-22 17:25:36,446 - INFO - Found 10 article links in this section
+2025-04-22 17:25:36,446 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067550
+2025-04-22 17:25:46,566 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067532
+2025-04-22 17:25:55,302 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067524
+2025-04-22 17:26:01,533 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067512
+2025-04-22 17:26:07,598 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067498
+2025-04-22 17:26:18,701 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067491
+2025-04-22 17:26:24,471 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067408
+2025-04-22 17:26:32,493 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067425
+2025-04-22 17:26:41,580 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067399
+2025-04-22 17:26:52,395 - INFO - Scraping article: https://www.elwatannews.com/news/details/8067394
+2025-04-22 17:27:01,676 - INFO - Saved 30 articles from El Watan News to egyptian_news_dataset\elwatannews_articles_20250422_172701.json
+2025-04-22 17:27:01,677 - INFO - 
+==================================================
+2025-04-22 17:27:01,677 - INFO - Scraping website: Egypt Today
+2025-04-22 17:27:01,677 - INFO - ==================================================
+
+2025-04-22 17:27:01,677 - INFO - 
+Scraping section: https://www.egypttoday.com/Section/News/1
+2025-04-22 17:27:07,806 - WARNING - No articles found using selector 'div.sectionItem' on https://www.egypttoday.com/Section/News/1
+2025-04-22 17:27:07,813 - ERROR - No articles found with fallback selectors on https://www.egypttoday.com/Section/News/1
+2025-04-22 17:27:07,814 - INFO - Found 0 article links on first page of https://www.egypttoday.com/Section/News/1
+2025-04-22 17:27:07,814 - INFO - Scraping article links from: https://www.egypttoday.com/Section/News/2
+2025-04-22 17:27:13,530 - WARNING - No articles found using selector 'div.sectionItem' on https://www.egypttoday.com/Section/News/2
+2025-04-22 17:27:13,537 - ERROR - No articles found with fallback selectors on https://www.egypttoday.com/Section/News/2
+2025-04-22 17:27:13,537 - INFO - No articles found on page 2 of https://www.egypttoday.com/Section/News/1, stopping pagination
+2025-04-22 17:27:13,538 - INFO - Found 0 article links in this section
+2025-04-22 17:27:13,538 - INFO - 
+Scraping section: https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:19,139 - WARNING - No articles found using selector 'div.sectionItem' on https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:19,146 - ERROR - No articles found with fallback selectors on https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:19,147 - INFO - Found 0 article links on first page of https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:19,147 - INFO - Scraping article links from: https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:23,649 - WARNING - No articles found using selector 'div.sectionItem' on https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:23,657 - ERROR - No articles found with fallback selectors on https://www.egypttoday.com/Section/Politics/2
+2025-04-22 17:27:23,657 - INFO - No articles found on page 2 of https://www.egypttoday.com/Section/Politics/2, stopping pagination
+2025-04-22 17:27:23,657 - INFO - Found 0 article links in this section
+2025-04-22 17:27:23,657 - INFO - 
+Scraping section: https://www.egypttoday.com/Section/Business/3
+2025-04-22 17:27:29,756 - WARNING - No articles found using selector 'div.sectionItem' on https://www.egypttoday.com/Section/Business/3
+2025-04-22 17:27:29,763 - ERROR - No articles found with fallback selectors on https://www.egypttoday.com/Section/Business/3
+2025-04-22 17:27:29,763 - INFO - Found 0 article links on first page of https://www.egypttoday.com/Section/Business/3
+2025-04-22 17:27:29,763 - INFO - Scraping article links from: https://www.egypttoday.com/Section/Business/2
+2025-04-22 17:27:36,576 - WARNING - No articles found using selector 'div.sectionItem' on https://www.egypttoday.com/Section/Business/2
+2025-04-22 17:27:36,585 - ERROR - No articles found with fallback selectors on https://www.egypttoday.com/Section/Business/2
+2025-04-22 17:27:36,585 - INFO - No articles found on page 2 of https://www.egypttoday.com/Section/Business/3, stopping pagination
+2025-04-22 17:27:36,585 - INFO - Found 0 article links in this section
+2025-04-22 17:27:36,585 - WARNING - No articles to save for egypttoday
+2025-04-22 17:27:36,585 - INFO - 
+==================================================
+2025-04-22 17:27:36,586 - INFO - Scraping website: Akhbar El Yom
+2025-04-22 17:27:36,586 - INFO - ==================================================
+
+2025-04-22 17:27:36,586 - INFO - 
+Scraping section: https://akhbarelyom.com/news/newssection/10/1/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF
+2025-04-22 17:27:40,560 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/10/1/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF. Status code: 403. Attempt 1/3
+2025-04-22 17:27:52,764 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/10/1/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF. Status code: 403. Attempt 2/3
+2025-04-22 17:28:11,107 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/10/1/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF. Status code: 403. Attempt 3/3
+2025-04-22 17:28:24,127 - ERROR - Failed to retrieve https://akhbarelyom.com/news/newssection/10/1/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF after 3 attempts
+2025-04-22 17:28:24,127 - ERROR - Failed to retrieve section page: https://akhbarelyom.com/news/newssection/10/1/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF
+2025-04-22 17:28:24,127 - INFO - Found 0 article links in this section
+2025-04-22 17:28:24,127 - INFO - 
+Scraping section: https://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1
+2025-04-22 17:28:28,533 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1. Status code: 403. Attempt 1/3
+2025-04-22 17:28:42,853 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1. Status code: 403. Attempt 2/3
+2025-04-22 17:29:01,141 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1. Status code: 403. Attempt 3/3
+2025-04-22 17:29:13,895 - ERROR - Failed to retrieve https://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1 after 3 attempts
+2025-04-22 17:29:13,895 - ERROR - Failed to retrieve section page: https://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1
+2025-04-22 17:29:13,895 - INFO - Found 0 article links in this section
+2025-04-22 17:29:13,895 - INFO - 
+Scraping section: https://akhbarelyom.com/news/newssection/23/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9
+2025-04-22 17:29:18,771 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/23/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9. Status code: 403. Attempt 1/3
+2025-04-22 17:29:34,853 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/23/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9. Status code: 403. Attempt 2/3
+2025-04-22 17:29:53,892 - WARNING - Failed to retrieve https://akhbarelyom.com/news/newssection/23/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9. Status code: 403. Attempt 3/3
+2025-04-22 17:30:01,752 - ERROR - Failed to retrieve https://akhbarelyom.com/news/newssection/23/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9 after 3 attempts
+2025-04-22 17:30:01,752 - ERROR - Failed to retrieve section page: https://akhbarelyom.com/news/newssection/23/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9
+2025-04-22 17:30:01,752 - INFO - Found 0 article links in this section
+2025-04-22 17:30:01,752 - WARNING - No articles to save for akhbarelyom
+2025-04-22 17:30:01,752 - INFO - 
+==================================================
+2025-04-22 17:30:01,752 - INFO - Scraping website: Al-Masry Al-Youm
+2025-04-22 17:30:01,752 - INFO - ==================================================
+
+2025-04-22 17:30:01,752 - INFO - 
+Scraping section: https://www.almasryalyoum.com/section/index/2
+2025-04-22 17:30:07,186 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/2. Status code: 403. Attempt 1/3
+2025-04-22 17:30:21,481 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/2. Status code: 403. Attempt 2/3
+2025-04-22 17:30:40,530 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/2. Status code: 403. Attempt 3/3
+2025-04-22 17:30:52,815 - ERROR - Failed to retrieve https://www.almasryalyoum.com/section/index/2 after 3 attempts
+2025-04-22 17:30:52,815 - ERROR - Failed to retrieve section page: https://www.almasryalyoum.com/section/index/2
+2025-04-22 17:30:52,815 - INFO - Found 0 article links in this section
+2025-04-22 17:30:52,815 - INFO - 
+Scraping section: https://www.almasryalyoum.com/section/index/4
+2025-04-22 17:30:58,468 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/4. Status code: 403. Attempt 1/3
+2025-04-22 17:31:15,145 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/4. Status code: 403. Attempt 2/3
+2025-04-22 17:31:30,300 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/4. Status code: 403. Attempt 3/3
+2025-04-22 17:31:40,622 - ERROR - Failed to retrieve https://www.almasryalyoum.com/section/index/4 after 3 attempts
+2025-04-22 17:31:40,622 - ERROR - Failed to retrieve section page: https://www.almasryalyoum.com/section/index/4
+2025-04-22 17:31:40,622 - INFO - Found 0 article links in this section
+2025-04-22 17:31:40,622 - INFO - 
+Scraping section: https://www.almasryalyoum.com/section/index/8
+2025-04-22 17:31:46,610 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/8. Status code: 403. Attempt 1/3
+2025-04-22 17:32:02,619 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/8. Status code: 403. Attempt 2/3
+2025-04-22 17:32:20,075 - WARNING - Failed to retrieve https://www.almasryalyoum.com/section/index/8. Status code: 403. Attempt 3/3
+2025-04-22 17:32:34,963 - ERROR - Failed to retrieve https://www.almasryalyoum.com/section/index/8 after 3 attempts
+2025-04-22 17:32:34,963 - ERROR - Failed to retrieve section page: https://www.almasryalyoum.com/section/index/8
+2025-04-22 17:32:34,963 - INFO - Found 0 article links in this section
+2025-04-22 17:32:34,963 - WARNING - No articles to save for almasryalyoum
+2025-04-22 17:32:34,963 - INFO - 
+==================================================
+2025-04-22 17:32:34,963 - INFO - Scraping website: Al Dostor
+2025-04-22 17:32:34,963 - INFO - ==================================================
+
+2025-04-22 17:32:34,963 - INFO - 
+Scraping section: https://www.dostor.org/category/1
+2025-04-22 17:32:42,288 - WARNING - No articles found using selector 'div.media' on https://www.dostor.org/category/1
+2025-04-22 17:32:42,304 - ERROR - No articles found with fallback selectors on https://www.dostor.org/category/1
+2025-04-22 17:32:42,304 - INFO - Found 0 article links on first page of https://www.dostor.org/category/1
+2025-04-22 17:32:42,305 - INFO - Scraping article links from: https://www.dostor.org/category/2
+2025-04-22 17:32:49,422 - WARNING - No articles found using selector 'div.media' on https://www.dostor.org/category/2
+2025-04-22 17:32:49,432 - ERROR - No articles found with fallback selectors on https://www.dostor.org/category/2
+2025-04-22 17:32:49,432 - INFO - No articles found on page 2 of https://www.dostor.org/category/1, stopping pagination
+2025-04-22 17:32:49,432 - INFO - Found 0 article links in this section
+2025-04-22 17:32:49,432 - INFO - 
+Scraping section: https://www.dostor.org/category/4
+2025-04-22 17:32:55,493 - WARNING - No articles found using selector 'div.media' on https://www.dostor.org/category/4
+2025-04-22 17:32:55,512 - ERROR - No articles found with fallback selectors on https://www.dostor.org/category/4
+2025-04-22 17:32:55,512 - INFO - Found 0 article links on first page of https://www.dostor.org/category/4
+2025-04-22 17:32:55,512 - INFO - Scraping article links from: https://www.dostor.org/category/2
+2025-04-22 17:33:01,219 - WARNING - No articles found using selector 'div.media' on https://www.dostor.org/category/2
+2025-04-22 17:33:01,232 - ERROR - No articles found with fallback selectors on https://www.dostor.org/category/2
+2025-04-22 17:33:01,233 - INFO - No articles found on page 2 of https://www.dostor.org/category/4, stopping pagination
+2025-04-22 17:33:01,233 - INFO - Found 0 article links in this section
+2025-04-22 17:33:01,233 - INFO - 
+Scraping section: https://www.dostor.org/category/6
+2025-04-22 17:33:07,214 - WARNING - No articles found using selector 'div.media' on https://www.dostor.org/category/6
+2025-04-22 17:33:07,231 - ERROR - No articles found with fallback selectors on https://www.dostor.org/category/6
+2025-04-22 17:33:07,231 - INFO - Found 0 article links on first page of https://www.dostor.org/category/6
+2025-04-22 17:33:07,231 - INFO - Scraping article links from: https://www.dostor.org/category/2
+2025-04-22 17:33:10,762 - WARNING - No articles found using selector 'div.media' on https://www.dostor.org/category/2
+2025-04-22 17:33:10,773 - ERROR - No articles found with fallback selectors on https://www.dostor.org/category/2
+2025-04-22 17:33:10,773 - INFO - No articles found on page 2 of https://www.dostor.org/category/6, stopping pagination
+2025-04-22 17:33:10,773 - INFO - Found 0 article links in this section
+2025-04-22 17:33:10,773 - WARNING - No articles to save for dostor
+2025-04-22 17:33:10,793 - INFO - Saved 138 articles to:
+2025-04-22 17:33:10,793 - INFO - - JSON: egyptian_news_dataset\all_egyptian_news_20250422_173310.json
+2025-04-22 17:33:10,794 - INFO - - CSV: egyptian_news_dataset\all_egyptian_news_20250422_173310.csv
+2025-04-22 17:33:10,794 - INFO - 
+==================================================
+2025-04-22 17:33:10,794 - INFO - Scraping completed in 2169.42 seconds
+2025-04-22 17:33:10,794 - INFO - Total articles scraped: 138
+2025-04-22 17:33:10,794 - INFO - ==================================================
+
